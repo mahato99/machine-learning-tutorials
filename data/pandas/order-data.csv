@@ -1,0 +1,6 @@
+order_id,customer_name,product_category,order_date,quantity,unit_price,total_amount,shipping_status,customer_rating,region
+1021,John Doe,Electronics,2024-01-25,1,599.99,599.99,Delivered,4.7,Northeast
+1022,Jane Smith,Books,2024-01-25,2,19.99,39.98,Processing,,West
+1023,Alice Brown,Home & Garden,2024-01-26,3,99.99,299.97,Shipped,4.8,Southeast
+1024,Bob Johnson,Clothing,2024-01-26,2,49.99,99.98,Delivered,4.3,Midwest
+1025,Charlie Davis,Electronics,2024-01-27,1,999.99,999.99,Delivered,4.6,Northeast

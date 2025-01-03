@@ -1,0 +1,21 @@
+order_id,customer_name,product_category,order_date,quantity,unit_price,total_amount,shipping_status,customer_rating,region
+1001,Sarah Johnson,Electronics,2024-01-15,2,299.99,599.98,Delivered,4.5,Northeast
+1002,Michael Chen,Books,2024-01-15,3,24.99,74.97,Processing,,West
+1003,Emma Williams,Home & Garden,2024-01-16,1,149.99,149.99,Shipped,5.0,Southeast
+1004,James Rodriguez,Electronics,2024-01-16,1,899.99,899.99,Delivered,3.8,West
+1005,Lisa Brown,Clothing,2024-01-17,4,39.99,159.96,Delivered,4.2,Midwest
+1006,David Kim,Books,2024-01-17,2,19.99,39.98,Cancelled,,Northeast
+1007,Rachel Martinez,Home & Garden,2024-01-18,2,89.99,179.98,Delivered,4.7,Southeast
+1008,Thomas Anderson,Electronics,2024-01-18,1,499.99,499.99,Processing,,West
+1009,Jennifer Lee,Clothing,2024-01-19,3,29.99,89.97,Shipped,4.0,Midwest
+1010,Robert Taylor,Electronics,2024-01-19,1,1299.99,1299.99,Delivered,4.9,Northeast
+1011,Maria Garcia,Books,2024-01-20,5,15.99,79.95,Delivered,4.3,West
+1012,Kevin Wilson,Home & Garden,2024-01-20,2,199.99,399.98,Processing,,Southeast
+1013,Ashley White,Clothing,2024-01-21,1,79.99,79.99,Delivered,4.6,Midwest
+1014,Christopher Lee,Electronics,2024-01-21,2,449.99,899.98,Shipped,,Northeast
+1015,Amanda Miller,Books,2024-01-22,4,12.99,51.96,Delivered,4.1,West
+1016,Daniel Smith,Home & Garden,2024-01-22,1,299.99,299.99,Delivered,4.8,Southeast
+1017,Jessica Brown,Clothing,2024-01-23,3,49.99,149.97,Processing,,Midwest
+1018,Ryan Johnson,Electronics,2024-01-23,1,799.99,799.99,Delivered,4.4,Northeast
+1019,Michelle Park,Books,2024-01-24,2,29.99,59.98,Shipped,4.2,West
+1020,William Davis,Home & Garden,2024-01-24,2,129.99,259.98,Delivered,4.5,Southeast

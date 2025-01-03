@@ -6,9 +6,12 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 # Read the data from CSV
 data = pd.read_csv('regression_data.csv')
+print(data.head())
+
+# y= mx+c
 
 # Assuming the CSV has columns 'x' and 'y'
-#X = data['x'].values
+#X = data['x'].values  #This will through an error due to scikit learn during modelling
 X = data['x'].values.reshape(-1, 1)
 y = data['y'].values
 
